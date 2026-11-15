@@ -2,7 +2,7 @@
 
 **Identidad de referencia:** José Baroja, seudónimo literario de Ramón Mauricio González Gutiérrez; escritor chileno nacido en Valdivia en 1983. Para la reconciliación de autoridades se cotejan las variantes del nombre y las obras publicadas, no solo la coincidencia nominal.
 
-## Resultado de la comprobación internacional (15 de noviembre de 2026)
+## Resultado de la comprobación internacional (15 de noviembre de 2026; segunda revisión)
 
 ### Nivel A — asociación corroborada por dos fuentes de referencia
 
@@ -33,7 +33,7 @@ La categoría de Wikimedia Commons [José Baroja](https://commons.wikimedia.org/
 ### ORCID
 
 - **ORCID:** [0000-0002-2850-0029](https://orcid.org/0000-0002-2850-0029).
-- El identificador aparece en Wikimedia Commons, asociado al elemento Q111516396. El perfil ORCID carga una aplicación JavaScript y no expuso sus metadatos en la consulta automatizada. Por ello se registra como **identificador listado por Commons; titularidad y metadatos ORCID pendientes de verificación directa**. No se afirma que se haya autenticado la titularidad mediante OAuth.
+- La asociación del ORCID con José Baroja cuenta con evidencia pública independiente de Commons: el CV público del autor lo consigna y el PDF editorial de *Interpretextos* identifica a «José Baroja» con ese ORCID junto al cuento «Desapariciones» (vol. 2, n.º 4, 2025, pp. 69–71). [CV público](https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae) · [PDF del artículo](https://josebaroja.com/wp-content/uploads/2025/09/itp_4-2025-06-desapariciones.pdf) · [DOI](https://doi.org/10.53897/RevInterp.2025.04.04). **Resultado:** asociación autor-identificador respaldada por dos fuentes públicas; el perfil ORCID en sí no expuso metadatos legibles y no se realizó autenticación OAuth.
 
 ## VIAF: dos clusters diferentes
 
@@ -66,12 +66,12 @@ No atribuir registros de homónimos sin contrastar fecha/lugar de nacimiento, va
 
 ## Acceso y limitaciones de esta revisión
 
-Se intentó abrir las fichas directas BNE, LC, ISNI, VIAF, BnF, IdRef, ORCID y DBN. Varios servidores de autoridades devolvieron errores de acceso o respuestas JavaScript sin metadatos legibles. Esto **no demuestra que los registros sean inexistentes ni incorrectos**; significa que la validación se basa en las fuentes secundarias de referencia descritas arriba y que las fichas institucionales indicadas como pendientes deben inspeccionarse manualmente o mediante sus APIs/descargas oficiales.
+Se intentó abrir las fichas directas BNE, LC, ISNI, VIAF, BnF, IdRef, ORCID y DBN, además de rutas RDF/JSON/SRU para IdRef, BnF y VIAF. En esta sesión, IdRef, BnF, VIAF, CCAB y DBN devolvieron errores de acceso o no expusieron contenido indexable; las búsquedas exactas en buscadores tampoco devolvieron resultados institucionales independientes. Esto **no demuestra que los registros sean inexistentes ni incorrectos**; significa que la validación se basa en las fuentes secundarias de referencia descritas arriba y que las fichas institucionales indicadas como pendientes deben inspeccionarse manualmente o mediante sus APIs/descargas oficiales.
 
 ## Próximos pasos recomendados
 
 1. Solicitar/consultar a VIAF u OCLC la composición de ambos clusters y comparar los source records.
 2. Abrir las fichas BnF e IdRef desde sus interfaces de búsqueda por número y verificar nombre, fechas, variantes y obras.
 3. Recuperar el registro CCAB/Chile y el registro polaco mediante sus interfaces/API institucionales.
-4. Confirmar en ORCID que el perfil corresponde al titular y que sus datos públicos están actualizados.
+4. Revisar el perfil ORCID directamente y, si se desea, autorizar la vinculación OAuth desde los servicios que lo permitan. La asociación pública ya está respaldada por CV y artículo editorial.
 5. Si se confirman duplicados, solicitar la corrección en la agencia fuente; VIAF agrega los datos de esas agencias y no sustituye sus decisiones de autoridad.
