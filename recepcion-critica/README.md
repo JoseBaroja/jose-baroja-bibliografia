@@ -40,7 +40,7 @@ Este expediente registra textos escritos por terceros que estudian, reseñan, co
 
 ## Alcance de la búsqueda académica
 
-La investigación de recepción crítica se concentra en textos efectivamente localizados que estudian, reseñan o comentan la obra de José Baroja, con independencia de la universidad o país de procedencia de sus autores. No se considera necesario priorizar búsquedas específicas en repositorios de la Universidad de Cuenca ni de la Benemérita Universidad Autónoma de Puebla (BUAP). La ausencia de resultados en esas instituciones no se utiliza como indicador de recepción ni como conclusión sobre la obra.
+La investigación de recepción crítica se concentra en textos efectivamente localizados que estudian, reseñan o comentan la obra de José Baroja, con independencia de la universidad o país de procedencia de sus autores. No se establecen instituciones predeterminadas como objetivo: se prioriza la calidad, independencia y pertinencia de cada publicación.
 
 Las búsquedas futuras deben priorizar revistas literarias, repositorios académicos generales, catálogos de tesis, índices de revistas, capítulos de libros, entrevistas y reseñas independientes, sin limitarse a instituciones predeterminadas.
 
@@ -59,7 +59,7 @@ No debe confundirse esta recepción independiente con los artículos, entrevista
 - Recuperar URL editorial original de *De Sur a Sur* y datos completos de Agatha Méndez.
 - Identificar al entrevistador/a de Buena Vista Social Media si el medio lo hace público.
 - Buscar citas de estos textos en Google Scholar, Crossref, Dialnet, repositorios y catálogos de tesis.
-- Ampliar la búsqueda general en revistas, prensa cultural, catálogos de tesis y repositorios, sin priorizar instituciones concretas.
+- Ampliar periódicamente la búsqueda general en revistas, prensa cultural, catálogos de tesis y repositorios.
 - Registrar nuevas reseñas de cada libro por separado cuando existan.
 
 ## Plantilla para nuevas entradas
