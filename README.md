@@ -7,6 +7,8 @@ Repositorio documental para reunir y verificar la bibliografía publicada de Jos
 ### Obras y ediciones
 - [*Sueño en Guadalajara y otros cuentos* — ficha de edición](obras/sueno-en-guadalajara.md)
 - [*No fue un catorce de febrero y otros cuentos* — ficha de edición](obras/no-fue-un-catorce-de-febrero.md)
+- [*Donde habita el olvido* — ficha de edición](obras/donde-habita-el-olvido.md)
+- [Bibliografía general de libros y participaciones](obras/bibliografia-general.md)
 
 ### Publicaciones y colaboraciones
 - [Índice de artículos, cuentos y colaboraciones](publicaciones/README.md)
