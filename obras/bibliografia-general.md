@@ -24,9 +24,9 @@ Inventario de obras y participaciones editoriales atribuidas a José Baroja. La 
 | 2021 | *No fue un catorce de febrero y otros cuentos* | Terra Ignota, Barcelona | Libro; ISBN-13 9788412256161 / ISBN-10 8412256166 |
 | 2021 | *Homenaje a la literatura contemporánea, Jalisco: muestrario* | Maya Cartonera / Ave Azul, Texcoco | Muestrario; participación |
 | 2023 | *Sueño en Guadalajara y otros cuentos* | Terra Ignota, Barcelona | Libro; ISBN 9788412674354 |
-| 2026 | *Donde habita el olvido* | Equinoxio, Mendoza | Libro; ISBN 9786316581389 |
+| 2026 | *Donde habita el olvido* | Equinoxio, Mendoza | Libro; ISBN 9786316581389 (ficha oficial del autor) |
 
-**Fuente del listado:** [ELEM — Obra publicada de José Baroja](https://www.elem.mx/autor/obra/directa/135517). La ficha ELEM de autor también enlaza los cuatro identificadores principales de autoridad.
+**Fuente del listado:** [ELEM — Obra publicada de José Baroja](https://www.elem.mx/autor/obra/directa/135517), que enumera 17 registros y sus datos básicos. Las fichas individuales enlazadas más abajo aportan ISBN y datos adicionales cuando la página los muestra. La ficha ELEM de autor también enlaza los cuatro identificadores principales de autoridad.
 
 ## Ediciones y registros individuales especialmente documentados
 
@@ -35,7 +35,7 @@ Inventario de obras y participaciones editoriales atribuidas a José Baroja. La 
 - [*Mi último invierno* — ELEM](https://www.elem.mx/obra/datos/239879): primera edición 2018, ISBN 9789874274076; reedición Ariadna 2019, ISBN 9786078269358.
 - [*No fue un catorce de febrero y otros cuentos* — ELEM](https://www.elem.mx/obra/datos/239884): Barcelona, Terra Ignota, 2021; ELEM consigna ISBN-10 8412256166. El ISBN-13 correspondiente, 9788412256161, aparece en la ficha del autor y librerías.
 - [*Sueño en Guadalajara y otros cuentos* — ELEM](https://www.elem.mx/obra/datos/239885): Barcelona, Terra Ignota, 2023; ISBN 9788412674354.
-- [*Donde habita el olvido* — ELEM](https://www.elem.mx/obra/datos/240552): Mendoza, Equinoxio, 2026; ISBN 9786316581389.
+- [*Donde habita el olvido* — ELEM](https://www.elem.mx/obra/datos/240552): la página individual existe, pero no expone metadatos en la consulta automatizada; el listado general ELEM sí incluye título, autor, Mendoza, Equinoxio y 2026. El ISBN 9786316581389 consta en la ficha oficial del autor.
 
 ## Notas de normalización y discrepancias
 
