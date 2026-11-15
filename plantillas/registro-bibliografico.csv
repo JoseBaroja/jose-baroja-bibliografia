@@ -1,5 +1,8 @@
 tipo_registro,titulo,autor_segun_fuente,editorial,institucion,lugar,fecha,identificador_tipo,identificador_valor,url_fuente,estado,fecha_consulta,observaciones
-obra_edicion,,,,,,,,,,,,
-catalogo_biblioteca,,,,,,,,,,,,
-autoridad,,,,,,,,,,,,
-recepcion_critica,,,,,,,,,,,,
+edicion_impresa,"Sueño en Guadalajara y otros cuentos","José Baroja","Terra Ignota Ediciones","Enciclopedia de la Literatura en México","Barcelona, España",2023,ISBN,9788412674354,https://www.elem.mx/obra/datos/239885,corroborado,2026-11-15,"Edición impresa; ficha ELEM corroborada con ficha comercial editorial"
+edicion_electronica,"Sueño en Guadalajara","José Baroja","Terra Ignota Ediciones",,"",2023,ISBN,9788412772074,https://ebooksdepository.com/es/publications/sueno-en-guadalajara,pendiente,2026-11-15,"ISBN atribuido a EPUB por agregador; requiere confirmación editorial o catalográfica"
+edicion_impresa,"No fue un catorce de febrero y otros cuentos","José Baroja","Terra Ignota Ediciones",,"Barcelona, España",2021,ISBN,9788412256161,https://josebaroja.com/no-fue-un-catorce-de-febrero-y-otros-cuentos-6/,corroborado,2026-11-15,"Ficha del autor y CV señalan 2021; una nota de 2023 menciona 2020"
+autoridad,"José Baroja","José Baroja",,"Enciclopedia de la Literatura en México",,,VIAF,23157523177127030525,https://www.elem.mx/autor/datos/135517,consignado_por_ELEM,2026-11-15,"Coincide con VIAF enlazado por Biblioteca Virtual Miguel de Cervantes"
+autoridad,"José Baroja","José Baroja",,"Enciclopedia de la Literatura en México",,,ISNI,0000000506786697,https://www.elem.mx/autor/datos/135517,consignado_por_ELEM,2026-11-15,"Comprobar ficha ISNI directamente antes de usar como autoridad consolidada"
+autoridad,"José Baroja","José Baroja",,"Enciclopedia de la Literatura en México",,,BNE,XX5868941,https://datos.bne.es/persona/XX5868941.html,consignado_por_ELEM,2026-11-15,"Identificador de autoridad consignado en ELEM"
+autoridad,"José Baroja","José Baroja",,"Library of Congress",,,LCCN,n2022029904,https://id.loc.gov/authorities/names/n2022029904.html,consignado_por_ELEM,2026-11-15,"Identificador de autoridad consignado en ELEM"
