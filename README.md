@@ -24,6 +24,12 @@ Repositorio documental para reunir y verificar la bibliografía publicada de Jos
 - [Recepción crítica y menciones de terceros](recepcion-critica/README.md)
 - [Plantilla CSV](plantillas/registro-bibliografico.csv)
 
+## Estado de la revisión documental — 15 de noviembre de 2026
+
+Se ha completado una ronda intensiva de revisión de bibliografía, publicaciones, autoridades y recepción crítica. La sección de recepción crítica incorpora ensayos, reseñas y una entrevista de terceros; el inventario de publicaciones incluye los DOI localizados y distingue datos transcritos del CV de registros editoriales individuales.
+
+**Cierre de esta sesión:** se da por finalizada la ronda de trabajo que puede completarse con las fuentes públicas accesibles y las herramientas conectadas. No se declara cerrada la verificación institucional de todos los identificadores ni la localización de todos los ejemplares. Los registros que requieren acceso a sistemas externos restringidos o autenticación permanecen señalados como pendientes; no se han inferido ni inventado datos para cubrir esos vacíos.
+
 ## Criterios de calidad
 
 1. **No inventar identificadores ni enlaces permanentes.** Se transcriben solo desde una fuente localizable.
