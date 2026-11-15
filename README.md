@@ -1,12 +1,15 @@
-# José Baroja — Bibliografía, catálogos y autoridades
+# José Baroja — Bibliografía, publicaciones, catálogos y autoridades
 
-Repositorio documental para reunir y verificar la bibliografía publicada de José Baroja, sus registros en catálogos de bibliotecas, identificadores de autoridad y recepción crítica.
+Repositorio documental para reunir y verificar la bibliografía publicada de José Baroja, sus registros en catálogos de bibliotecas, identificadores de autoridad, publicaciones y recepción crítica.
 
 ## Índice de trabajo
 
 ### Obras y ediciones
 - [*Sueño en Guadalajara y otros cuentos* — ficha de edición](obras/sueno-en-guadalajara.md)
 - [*No fue un catorce de febrero y otros cuentos* — ficha de edición](obras/no-fue-un-catorce-de-febrero.md)
+
+### Publicaciones y colaboraciones
+- [Índice de artículos, cuentos y colaboraciones](publicaciones/README.md)
 
 ### Catálogos de bibliotecas
 - [Pistas y registros: *Sueño en Guadalajara*](catalogos/sueno-en-guadalajara.md)
@@ -16,13 +19,13 @@ Repositorio documental para reunir y verificar la bibliografía publicada de Jos
 - [Identificadores de José Baroja y reconciliación de clusters](identificadores/autoridad-jose-baroja.md)
 
 ### Recepción crítica y herramientas
-- [Recepción crítica y menciones](recepcion-critica/README.md)
+- [Recepción crítica y menciones de terceros](recepcion-critica/README.md)
 - [Plantilla CSV](plantillas/registro-bibliografico.csv)
 
 ## Criterios de calidad
 
 1. **No inventar identificadores ni enlaces permanentes.** Se transcriben solo desde una fuente localizable.
-2. **Separar obra, edición, ejemplar, autoridad y recepción crítica.** Un libro, su edición concreta, el registro de un ejemplar y el registro de su autor son entidades distintas.
+2. **Separar obra, edición, ejemplar, autoridad, publicación y recepción crítica.** Un libro, su edición concreta, el registro de un ejemplar, el registro de su autor y un artículo crítico son entidades distintas.
 3. **Graduar la evidencia.** «Registro catalográfico identificado» no es lo mismo que «noticia de disponibilidad» ni que «búsqueda en el catálogo».
 4. **Documentar discrepancias.** No se corrigen fechas, nombres o ISBN por intuición; se conserva la variante y se explica la decisión provisional.
 5. **No resolver homonimias por coincidencia de nombre.** Contrastar fechas, obras, país, variantes y fuentes.
