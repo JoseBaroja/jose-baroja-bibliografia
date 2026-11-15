@@ -30,11 +30,11 @@ Los siguientes datos se transcriben del CV público del autor. Los enlaces remit
 | Año | Título | Medio / institución | Tipo / datos |
 |---|---|---|---|
 | 2025 | *De lo que ocurrió al minúsculo profesor Juan Pablo* | Universidad Autónoma de Nuevo León, *Reforma Siglo XXI*, vol. 32, n.º 123, pp. 82–85 | Cuento; ISSN 2007-2058 |
-| 2025 | *Desapariciones* | Universidad de Colima, *Interpretextos*, vol. 2, n.º 4, pp. 69–71 | Cuento; DOI 10.53897/RevInterp.2025.04.04 |
+| 2025 | *Desapariciones* | Universidad de Colima, *Interpretextos*, vol. 2, n.º 4, pp. 69–71 | Cuento; DOI [10.53897/RevInterp.2025.04.04](https://doi.org/10.53897/RevInterp.2025.04.04); [PDF del número](https://josebaroja.com/wp-content/uploads/2025/09/interpretextos.pdf) |
 | 2025 | *Un hijo de perra y otros cuentos* | Biblioteca Virtual Miguel de Cervantes | Edición digital de la edición de Escaparate, 2017 |
 | 2024 | *El hombre del terrón de azúcar y otros cuentos* | Biblioteca Virtual Miguel de Cervantes | Edición digital de la edición de Lebu, 2015 |
 | 2024 | *Estructura y recepción textual de la Historia de la Monja Alférez, Catalina de Erauso, escrita por ella misma* | Biblioteca Virtual Miguel de Cervantes | Estudio crítico |
-| 2024 | *Godín* | Universidad Autónoma de Nuevo León, *Reforma Siglo XXI*, vol. 30, n.º 118, pp. 91–92 | Cuento; ISSN 2007-2058 |
+| 2024 | *Godín* | Universidad Autónoma de Nuevo León, *Reforma Siglo XXI*, vol. 30, n.º 118, pp. 91–92 | Cuento; [registro editorial](https://reforma.uanl.mx/index.php/revista/article/view/484); ISSN 2007-2058 |
 | 2024 | *Héroe* | Letras de Chile | Cuento; 22 de mayo de 2024 |
 | 2024 | *El perfecto Godín* | Revista delatripa, n.º 83 | Cuento; agosto de 2024 |
 | 2024 | *Godín* | Revista El Guardatextos | Cuento |
@@ -88,13 +88,19 @@ Listado de referencia basado en el CV público del autor; los datos editoriales 
 | 2014 | *Acerca del ser brasileño como figura identitaria en el modernismo* | *Nueva Revista del Pacífico*, n.º 60 | Artículo; ISSN 0716-6346 |
 | 2013 | *El teatro de Brecht como visión crítica de un hombre de la Modernidad* | *Nueva Revista del Pacífico*, n.º 58 | Artículo; ISSN 0716-6346 |
 
+## Correcciones y enlaces persistentes añadidos
+
+- *Desapariciones* cuenta con DOI propio: [10.53897/RevInterp.2025.04.04](https://doi.org/10.53897/RevInterp.2025.04.04). El PDF de *Interpretextos* identifica el texto, las páginas 69–71 y el ORCID del autor.
+- *Godín* cuenta con ficha editorial individual en el portal de *Reforma Siglo XXI* de la Universidad Autónoma de Nuevo León.
+- No se deben usar los enlaces a perfiles generales (CV o Muck Rack) como sustitutos permanentes cuando exista una ficha editorial individual.
+
 ## Textos de terceros sobre la obra
 
 No son publicaciones de José Baroja. Se registran aquí únicamente como recepción crítica o cobertura:
 
 | Año | Título | Medio | Enlace / nota |
 |---|---|---|---|
-| 2026 | *La educación en la obra de José Baroja* | Portal Insurgencia Magisterial | Artículo de un tercero; [nota de contexto en el sitio oficial](https://josebaroja.com/2026/10/05/la-educacion-en-la-obra-de-jose-baroja-insurgencia-magisterial/) |
+| 2026 | *La educación en la obra de José Baroja* | Portal Insurgencia Magisterial | Artículo de David Montil; [texto original](https://insurgenciamagisterial.com/la-educacion-en-la-obra-de-jose-baroja/) |
 
 ## Registro descargable
 
