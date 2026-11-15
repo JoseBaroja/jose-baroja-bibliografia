@@ -19,6 +19,19 @@ Este expediente registra textos escritos por terceros que estudian, reseñan, co
 | 01-02-2026 | Dulce Gutiérrez | *Escribir desde el borde: notas sobre la obra de José Baroja* | Ensayo / reseña panorámica | Carcaj.cl, Chile | [Texto original](https://carcaj.cl/escribir-desde-el-borde-notas-sobre-la-obra-de-jose-baroja/) | Lectura de la poética de lo menor y de la atención a la experiencia cotidiana, desde los primeros libros hasta *Sueño en Guadalajara*. Publicado en las secciones Literatura, Pensamiento y Reseñas. |
 | 27-08-2026 | Buena Vista Social Media (firma individual no visible) | *El niño que se escapaba a la biblioteca y nunca volvió del todo* | Entrevista / perfil | Buena Vista Social Media, Chile | [Versión revista](https://www.buenavistasocialmedia.cl/revista/el-nio-que-se-escapaba-a-la-biblioteca-y-nunca-volvi-del-todo) · [versión blog](https://www.buenavistasocialmedia.cl/blog/el-nio-que-se-escapaba-a-la-biblioteca-y-nunca-volvi-del-todo) | La página de revista muestra la entrevista y fecha 27-08-2026, sin firma individual visible. Incluye respuestas atribuidas al autor sobre formación lectora, seudónimo, marginalidad, migración, cuento y radio. La página de portafolio la clasifica como entrevista. |
 
+## Reseñas y análisis adicionales localizados en esta sesión
+
+| Fecha | Autor/a | Título | Tipo | Medio / país | Enlace | Observación |
+|---|---|---|---|---|---|---|
+| 09-05-2023 | Jordi Matamoros Sánchez | *Reseña literaria: Sueño en Guadalajara* | Reseña | Sitio del autor / texto firmado por escritor catalán | [Texto íntegro](https://josebaroja.com/2023/05/09/resena-sueno-en-guadalajara-y-otros-cuentos/) | La página reproduce una reseña firmada por Matamoros y aporta su perfil biográfico. Está alojada en el sitio del autor, por lo que conviene localizar una eventual publicación original independiente. |
+| 29-09-2025 | Revista Freakopolis (firma editorial) | *José Baroja invita a recorrer una Guadalajara que duele y sueña* | Reseña / nota literaria | Revista Freakopolis, Chile | [Texto original](https://freakopolis.cl/jose-baroja-invita-a-recorrer-una-guadalajara-que-duele-y-suena/) | Presenta y comenta *Sueño en Guadalajara y otros cuentos*, sus temas urbanos y el uso de humor, ternura y crítica social. |
+| 30-09-2025 | Mauro Gutiérrez (la página también muestra “redacción”) | *José Baroja y el eco de los perros en El lado oscuro de la sombra y otros ladridos* | Reseña | De Reporteros, México | [Texto original](https://dereporteros.com/2025/09/30/jose-baroja-y-el-eco-de-los-perros-en-el-lado-oscuro-de-la-sombra-y-otros-ladridos/) | La página identifica a Mauro Gutiérrez bajo el rótulo de redacción. Lectura detallada de los relatos y de la representación de abandono, desigualdad y ternura. |
+| 14-11-2025 | Dante G. | *El peso de lo cotidiano en la narrativa de José Baroja* | Reseña | Lo que leímos / Loqueleímos, Chile | [Texto original](https://loqueleimos.com/2025/11/no-fue-un-catorce-de-febrero-y-otros-cuentos/) | Reseña de *No fue un catorce de febrero y otros cuentos*. Incluye valoración positiva y observaciones críticas sobre el desarrollo desigual de algunos relatos. |
+| 19-03-2026 | María Carmen García | *Los perros contra el orden: política y marginalidad en El lado oscuro de la sombra y otros ladridos* | Ensayo / reseña crítica | Nueva Revolución, España | [Texto original](https://nuevarevolucion.es/los-perros-contra-el-orden-politica-y-marginalidad-en-el-lado-oscuro-de-la-sombra-y-otros-ladridos/) | Lectura política de los cuentos desde la marginalidad urbana, la desigualdad y los narradores animales. |
+| 26-03-2026 | Julia Rivera | *Entre la intemperie y la memoria: una lectura de la obra de José Baroja* | Ensayo crítico | Letras de Chile | [Texto original](https://letrasdechile.cl/2026/03/26/entre-la-intemperie-y-la-memoria/) | Analiza memoria fragmentada, desamparo existencial, contención expresiva, ciudad e identidad latinoamericana. La página la identifica como profesora. |
+| 04-03-2026 | Karina Aguilar | *Las muchas Guadalajaras: política y ficción en la narrativa de José Baroja* | Ensayo / crítica literaria | Nueva Revolución, España | [Texto original](https://nuevarevolucion.es/las-muchas-guadalajaras-politica-y-ficcion-en-la-narrativa-de-jose-baroja/) | Lectura de *Sueño en Guadalajara y otros cuentos* como representación política de la ciudad, precariedad, burocracia y desigualdad. |
+| 06-03-2026 | Lectora tapatía (firma publicada) | *José Baroja: un extranjero en la literatura jalisciense* | Perfil / ensayo de recepción | De Reporteros, México | [Texto original](https://dereporteros.com/?amp=1&p=156760) | Examina la incorporación del autor al campo literario jalisciense y la representación de Guadalajara. La firma visible es seudónima o colectiva; no se atribuye a una persona no identificada. |
+
 ## Artículo de tercero ya localizado en educación
 
 | Fecha | Autor/a | Título | Tipo | Medio | Enlace | Observación |
@@ -33,10 +46,11 @@ Las búsquedas futuras deben priorizar revistas literarias, repositorios académ
 
 ## Lectura sintética de la recepción encontrada
 
-Los textos de terceros identificados permiten reconocer tres líneas de lectura:
+Los textos de terceros identificados permiten reconocer varias líneas de lectura:
 1. **Neofantástico y realismo social:** Diana Osorio P. observa la convivencia de lo extraño con las tensiones sociales y psicológicas.
-2. **Poética de la concisión y lo cotidiano:** Agatha Méndez y Dulce Gutiérrez destacan la economía expresiva, la ironía, lo fantástico cotidiano y la atención a personajes y experiencias marginales.
-3. **Memoria, identidad y experiencia migrante:** la entrevista de Buena Vista Social Media presenta la biblioteca, el seudónimo, la migración a México y la escritura como refugio y forma de memoria.
+2. **Poética de la concisión y lo cotidiano:** Agatha Méndez, Dulce Gutiérrez, Dante G. y Jordi Matamoros destacan la economía expresiva, la ironía y la atención a personajes y experiencias marginales.
+3. **Memoria, identidad y experiencia migrante:** Julia Rivera y la entrevista de Buena Vista Social Media abordan la memoria, el desplazamiento, la identidad y la escritura.
+4. **Lectura política y urbana:** Karina Aguilar, María Carmen García, Mauro Gutiérrez y Lectora tapatía leen la ciudad, la desigualdad, la marginalidad y la pertenencia cultural.
 
 No debe confundirse esta recepción independiente con los artículos, entrevistas o columnas escritos por el propio Baroja.
 
@@ -45,7 +59,7 @@ No debe confundirse esta recepción independiente con los artículos, entrevista
 - Recuperar URL editorial original de *De Sur a Sur* y datos completos de Agatha Méndez.
 - Identificar al entrevistador/a de Buena Vista Social Media si el medio lo hace público.
 - Buscar citas de estos textos en Google Scholar, Crossref, Dialnet, repositorios y catálogos de tesis.
-- Continuar la búsqueda específica en Ecuador, BUAP y universidades españolas, incluyendo variantes de títulos y nombres.
+- Ampliar la búsqueda general en revistas, prensa cultural, catálogos de tesis y repositorios, sin priorizar instituciones concretas.
 - Registrar nuevas reseñas de cada libro por separado cuando existan.
 
 ## Plantilla para nuevas entradas
