@@ -81,7 +81,8 @@ Listado de referencia basado en el CV público del autor; los datos editoriales 
 | 2018 | *El hombre del terrón de azúcar* | Universidad de Colima, *Interpretextos*, n.º 20 | Cuento; ISSN 1870-896X |
 | 2018 | *Algunos apuntes sobre la novela negra latinoamericana, a partir de La ciudad está triste de Ramón Díaz Eterovic* | Universidad de Colima, *Interpretextos*, n.º 20 | Artículo; ISSN 1870-896X |
 | 2018 | *El laberinto de la soledad de Octavio Paz como síntesis de la modernidad latinoamericana* | *Octavio Paz and India: Enduring Resonances*, Nueva Delhi | Capítulo de libro; ISBN 978-81-86845-61-5 |
-| 2018 | *Algunos apuntes sobre la novela negra latinoamericana, a partir de La ciudad está triste de Ramón Díaz Eterovic* | Universidad de Colima, *Interpretextos*, n.º 20 | Artículo; ISSN 1870-896X; datos transcritos del CV público |\n| 2018 | *Emergencia del sujeto marginal en Hijo de ladrón de Manuel Rojas* | *Nueva Revista del Pacífico*, n.º 67 | Artículo; ISSN 0716-6346; datos transcritos del CV público |
+| 2018 | *Algunos apuntes sobre la novela negra latinoamericana, a partir de La ciudad está triste de Ramón Díaz Eterovic* | Universidad de Colima, *Interpretextos*, n.º 20 | Artículo; ISSN 1870-896X; datos transcritos del CV público |
+| 2018 | *Emergencia del sujeto marginal en Hijo de ladrón de Manuel Rojas* | *Nueva Revista del Pacífico*, n.º 67 | Artículo; ISSN 0716-6346; datos transcritos del CV público |
 | 2018 | *Emergencia del sujeto marginal en Hijo de ladrón de Manuel Rojas* | *Nueva Revista del Pacífico*, n.º 67 | Artículo; ISSN 0716-6346 |
 | 2018 | *En memoria del alma de Don Trementino Marabunta*; *El hombre del terrón de azúcar y otros cuentos* | Ediciones Escaparate, Concepción | Segundas ediciones |
 | 2017 | *Un hijo de perra y otros cuentos* | Ediciones Escaparate, Concepción | Libro; ISBN 978-956-9065-96-5 |
