@@ -1,6 +1,6 @@
 # Obras y ediciones
 
-Esta sección documenta obras de José Baroja, participaciones en antologías y ediciones diferenciadas. La fuente bibliográfica más amplia consultada hasta ahora es la [obra publicada de José Baroja en la Enciclopedia de la Literatura en México (ELEM)](https://www.elem.mx/autor/obra/directa/135517), que enumera 16 registros hasta 2023.
+Esta sección documenta obras de José Baroja, participaciones en antologías y ediciones diferenciadas. La fuente bibliográfica más amplia consultada hasta ahora es la [obra publicada de José Baroja en la Enciclopedia de la Literatura en México (ELEM)](https://www.elem.mx/autor/obra/directa/135517), que enumera 17 registros entre 2015 y 2026, según la consulta más reciente.
 
 ## Índice de fichas individuales
 
