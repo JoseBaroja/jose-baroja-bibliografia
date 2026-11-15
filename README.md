@@ -1,33 +1,45 @@
-# José Baroja — Bibliografía y registros de autoridad
+# José Baroja — Bibliografía, catálogos y autoridades
 
-Este repositorio reúne y organiza información bibliográfica y registros de autoridad relacionados con el escritor José Baroja. Su propósito es facilitar la consulta, la verificación de fuentes y la documentación de su presencia en catálogos de bibliotecas y sistemas internacionales de identificación bibliográfica.
+Repositorio documental para reunir y verificar la bibliografía publicada de José Baroja, sus registros en catálogos de bibliotecas, identificadores de autoridad y recepción crítica.
 
-## Objetivos
+## Índice de trabajo
 
-- Reunir referencias bibliográficas de sus libros y otras publicaciones.
-- Documentar registros de catálogo en bibliotecas nacionales, universitarias y públicas.
-- Registrar identificadores de autoridad y bibliográficos (por ejemplo, VIAF, ISNI, ISBN y OCLC) cuando exista una fuente verificable.
-- Mantener enlaces directos a los registros originales para que cada dato pueda comprobarse.
+### Obras y ediciones
+- [*Sueño en Guadalajara y otros cuentos* — ficha de edición](obras/sueno-en-guadalajara.md)
+- [*No fue un catorce de febrero y otros cuentos* — ficha de edición](obras/no-fue-un-catorce-de-febrero.md)
 
-## Criterios de documentación
+### Catálogos de bibliotecas
+- [Pistas y registros: *Sueño en Guadalajara*](catalogos/sueno-en-guadalajara.md)
+- [Pistas y registros: *No fue un catorce de febrero*](catalogos/no-fue-un-catorce-de-febrero.md)
 
-1. **Fuente comprobable:** cada registro debe incluir un enlace al catálogo, repositorio o entidad que lo publica.
-2. **Identificadores exactos:** no se completarán números ni enlaces por aproximación.
-3. **Distinción de registros:** se diferenciarán los registros bibliográficos de obras, los registros de autoridad de personas y las menciones o reseñas críticas.
-4. **Estado explícito:** los datos pendientes de comprobar se marcarán como «por verificar» y no se presentarán como confirmados.
-5. **Trazabilidad:** cuando sea posible, se anotará la fecha de consulta y cualquier observación relevante sobre variantes del nombre, ediciones o correspondencias entre registros.
+### Identificadores de autoridad
+- [Identificadores de José Baroja y reconciliación de clusters](identificadores/autoridad-jose-baroja.md)
 
-## Organización prevista
+### Recepción crítica y herramientas
+- [Recepción crítica y menciones](recepcion-critica/README.md)
+- [Plantilla CSV](plantillas/registro-bibliografico.csv)
 
-- **Obras y ediciones:** referencias bibliográficas, ISBN y datos editoriales.
-- **Catálogos de bibliotecas:** registros individuales y enlaces permanentes.
-- **Identificadores de autoridad:** identificadores nacionales e internacionales y sus fuentes.
-- **Notas de verificación:** discrepancias, variantes y correspondencias pendientes de revisión.
+## Criterios de calidad
 
-## Estado del proyecto
+1. **No inventar identificadores ni enlaces permanentes.** Se transcriben solo desde una fuente localizable.
+2. **Separar obra, edición, ejemplar, autoridad y recepción crítica.** Un libro, su edición concreta, el registro de un ejemplar y el registro de su autor son entidades distintas.
+3. **Graduar la evidencia.** «Registro catalográfico identificado» no es lo mismo que «noticia de disponibilidad» ni que «búsqueda en el catálogo».
+4. **Documentar discrepancias.** No se corrigen fechas, nombres o ISBN por intuición; se conserva la variante y se explica la decisión provisional.
+5. **No resolver homonimias por coincidencia de nombre.** Contrastar fechas, obras, país, variantes y fuentes.
+6. **Conservar la fecha de consulta** al cerrar cada ficha y actualizarla cuando se vuelva a comprobar.
 
-Repositorio en construcción. Los registros se incorporarán de forma progresiva, priorizando la exactitud y la posibilidad de verificación independiente.
+## Estados utilizados
 
-## Cómo citar o reutilizar la información
+- **Verificado:** el dato aparece en una fuente primaria o en un registro institucional accesible.
+- **Corroborado:** dos fuentes independientes coinciden, pero falta el registro primario ideal.
+- **Pista:** una noticia o mención orienta a un catálogo, sin ficha individual identificada.
+- **Pendiente:** el dato requiere comprobación adicional.
+- **No resuelto:** hay señales contradictorias o riesgo de homonimia.
 
-Al reutilizar un dato, consúltese y cítese preferentemente el registro original de la biblioteca o entidad responsable. Este repositorio funciona como índice documental y herramienta de organización; no sustituye a las fuentes catalográficas originales.
+## Alcance y límites
+
+Este repositorio es un índice de investigación y no sustituye a los catálogos oficiales. Las noticias publicadas en el sitio del autor son útiles como pistas y evidencia de comunicaciones de disponibilidad, pero no se presentan como fichas catalográficas. Los identificadores candidatos tampoco se consideran confirmados hasta revisar sus registros oficiales.
+
+## Contribución y correcciones
+
+Para proponer una corrección, incluir siempre el enlace a la fuente primaria, el dato exacto que debe cambiarse y la fecha de consulta.
