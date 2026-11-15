@@ -46,3 +46,9 @@ Este dato se conserva como **edición electrónica pendiente de corroboración e
 - Recuperar los números de control / identificadores locales y, cuando proceda, OCLC.
 - Comprobar la edición electrónica en la plataforma editorial o en un catálogo bibliotecario.
 - Registrar fecha de consulta para cada ficha y conservar cualquier discrepancia de título o ISBN.
+
+
+## Documentación complementaria
+
+- [Pistas y registros individuales de catálogos](../catalogos/sueno-en-guadalajara.md).
+- [Identificadores de autoridad del autor](../identificadores/autoridad-jose-baroja.md).
