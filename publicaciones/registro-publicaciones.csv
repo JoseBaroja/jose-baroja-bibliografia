@@ -1,0 +1,28 @@
+# Registro tabular de publicaciones
+
+Archivo CSV complementario al [índice de publicaciones](README.md). Los estados distinguen enlaces de texto completo, índices del medio y datos declarados en el CV del autor.
+
+- **verificado_en_medio:** página del medio o texto completo localizado.
+- **corroborado_en_indice_de_autor:** ficha del medio o índice de autor y CV coinciden.
+- **declarado_en_CV:** dato transcrito del CV público; falta comprobar la ficha editorial.
+- **identificador_declarado_en_CV:** identificador consignado en el CV; falta cotejo independiente.
+
+```csv
+tipo,titulo,autor,medio_o_institucion,volumen_numero_paginas,fecha,identificador,url_fuente,estado,observaciones
+cuento,"No encontró nada","José Baroja","Carcaj","", "2026-09-04","","https://carcaj.cl/no-encontro-nada/",verificado_en_medio,"Texto completo y autoría visibles en Carcaj"
+cuento,"Cielo de Guadalajara","José Baroja","Teoría Ómicron","Año 8, número 3","2026-09-10","","https://www.academia.edu/179588315/Cielo_de_Guadalajara_Jos%C3%A9_Baroja",verificado_en_revista,"Texto completo en edición de Teoría Ómicron; CV del autor confirma fecha y número"
+columna,"Contra la literatura útil","José Baroja","La Voz de Maipú","","2026-09-30","","https://lavozdemaipu.cl/author/jose-baroja/",verificado_en_archivo_de_autor,"La página de autor del medio identifica el artículo y autoría; añadir URL individual si se localiza"
+articulo,"Apuntes acerca de La sombra tras el muro de Verónica Zondek","José Baroja","Universidad de Colima, Interpretextos","Vol. 3, n.º 5","2026","","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de enlace del número y ficha editorial"
+articulo,"El voto ajeno: democracia, mérito y desconfianza en el México whitexican","José Baroja","Revista Este País","N.º 423","2026-08-24","","https://muckrack.com/jose-baroja/articles",corroborado_en_indice_de_autor,"CV y perfil de autor"
+articulo,"El prestigio de no leer","José Baroja","Revista Este País","N.º 422","2026-07-09","","https://muckrack.com/jose-baroja/articles",declarado_en_CV,"Pendiente de URL individual"
+columna,"La ciudad que sigue","José Baroja","ZonaDocs","","2026-09-21","","https://josebaroja.com/author/cuentosrelatosyotrasyerbas/",declarado_en_CV,"Pendiente de URL individual"
+columna,"La escuela privada que no sabe despedir","José Baroja","ZonaDocs","","2026-07-07","","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de URL individual"
+columna,"El aprendizaje de la indiferencia","José Baroja","ZonaDocs","","2026-06-22","","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de URL individual"
+columna,"Chile y la educación del olvido","José Baroja","Le Monde diplomatique, edición chilena","","2026-09-14","","https://josebaroja.com/2026/09/21/chile-y-la-educacion-del-olvido-le-monde-diplomatique/",declarado_en_CV,"CV da fecha 14 septiembre; la página del sitio está fechada 21 septiembre. Mantener discrepancia"
+columna,"El presupuesto de la imaginación","José Baroja","Le Monde diplomatique, edición chilena","","2026-08-01","","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de URL individual"
+columna,"La sociedad que olvidó a sus profesores","José Baroja","Le Monde diplomatique, edición chilena","","2026-06-13","","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de URL individual"
+columna,"Cuando la escuela dejó de pensar","José Baroja","Le Monde diplomatique, edición chilena","","2026-05-25","","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de URL individual"
+cuento,"De lo que ocurrió al minúsculo profesor Juan Pablo","José Baroja","Universidad Autónoma de Nuevo León, Reforma Siglo XXI","Vol. 32, n.º 123, pp. 82–85","2025","ISSN 2007-2058","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de ficha institucional del número"
+cuento,"Desapariciones","José Baroja","Universidad de Colima, Interpretextos","Vol. 2, n.º 4, pp. 69–71","2025","DOI 10.53897/RevInterp.2025.04.04","https://doi.org/10.53897/RevInterp.2025.04.04",identificador_declarado_en_CV,"DOI consignado en CV; verificar metadatos del DOI"
+cuento,"Godín","José Baroja","Universidad Autónoma de Nuevo León, Reforma Siglo XXI","Vol. 30, n.º 118, pp. 91–92","2024","ISSN 2007-2058","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de ficha institucional"
+```
