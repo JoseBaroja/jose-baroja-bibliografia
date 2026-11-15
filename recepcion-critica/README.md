@@ -25,17 +25,11 @@ Este expediente registra textos escritos por terceros que estudian, reseñan, co
 |---|---|---|---|---|---|---|
 | 2026 | David Montil | *La educación en la obra de José Baroja* | Artículo de análisis / divulgación | Portal Insurgencia Magisterial | [Texto original](https://insurgenciamagisterial.com/la-educacion-en-la-obra-de-jose-baroja/) | Artículo de un tercero. No es una publicación escrita por José Baroja. |
 
-## Búsquedas académicas dirigidas: Ecuador, BUAP y España
+## Alcance de la búsqueda académica
 
-En esta ronda se realizaron búsquedas por coincidencia exacta del nombre y del título de obras en:
-- Repositorio institucional de la Universidad de Cuenca.
-- Repositorio institucional y dominio BUAP.
-- Dialnet y dominios académicos españoles.
-- Buscadores generales con el título *La narrativa de José Baroja: una cartografía del neofantástico y el realismo social* y variantes del nombre.
+La investigación de recepción crítica se concentra en textos efectivamente localizados que estudian, reseñan o comentan la obra de José Baroja, con independencia de la universidad o país de procedencia de sus autores. No se considera necesario priorizar búsquedas específicas en repositorios de la Universidad de Cuenca ni de la Benemérita Universidad Autónoma de Puebla (BUAP). La ausencia de resultados en esas instituciones no se utiliza como indicador de recepción ni como conclusión sobre la obra.
 
-**Resultado:** no se localizó un artículo, tesis o capítulo atribuible con seguridad a investigadores de la Universidad de Cuenca o de la BUAP que estudie la obra de José Baroja. Tampoco se debe presentar el ensayo de Inmediaciones como investigación de una universidad: la página identifica a Diana Osorio como profesora y máster en Letras Hispánicas, pero no declara afiliación institucional.
-
-Este resultado es limitado a las fuentes indexadas y las consultas realizadas; no demuestra inexistencia de trabajos no indexados, impresos o catalogados bajo variantes de título/nombre.
+Las búsquedas futuras deben priorizar revistas literarias, repositorios académicos generales, catálogos de tesis, índices de revistas, capítulos de libros, entrevistas y reseñas independientes, sin limitarse a instituciones predeterminadas.
 
 ## Lectura sintética de la recepción encontrada
 
