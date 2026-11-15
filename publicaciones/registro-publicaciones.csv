@@ -1,13 +1,3 @@
-# Registro tabular de publicaciones
-
-Archivo CSV complementario al [índice de publicaciones](README.md). Los estados distinguen enlaces de texto completo, índices del medio y datos declarados en el CV del autor.
-
-- **verificado_en_medio:** página del medio o texto completo localizado.
-- **corroborado_en_indice_de_autor:** ficha del medio o índice de autor y CV coinciden.
-- **declarado_en_CV:** dato transcrito del CV público; falta comprobar la ficha editorial.
-- **identificador_declarado_en_CV:** identificador consignado en el CV; falta cotejo independiente.
-
-```csv
 tipo,titulo,autor,medio_o_institucion,volumen_numero_paginas,fecha,identificador,url_fuente,estado,observaciones
 cuento,"No encontró nada","José Baroja","Carcaj","", "2026-09-04","","https://carcaj.cl/no-encontro-nada/",verificado_en_medio,"Texto completo y autoría visibles en Carcaj"
 cuento,"Cielo de Guadalajara","José Baroja","Teoría Ómicron","Año 8, número 3","2026-09-10","","https://www.academia.edu/179588315/Cielo_de_Guadalajara_Jos%C3%A9_Baroja",verificado_en_revista,"Texto completo en edición de Teoría Ómicron; CV del autor confirma fecha y número"
@@ -25,4 +15,3 @@ columna,"Cuando la escuela dejó de pensar","José Baroja","Le Monde diplomatiqu
 cuento,"De lo que ocurrió al minúsculo profesor Juan Pablo","José Baroja","Universidad Autónoma de Nuevo León, Reforma Siglo XXI","Vol. 32, n.º 123, pp. 82–85","2025","ISSN 2007-2058","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de ficha institucional del número"
 cuento,"Desapariciones","José Baroja","Universidad de Colima, Interpretextos","Vol. 2, n.º 4, pp. 69–71","2025","DOI 10.53897/RevInterp.2025.04.04","https://doi.org/10.53897/RevInterp.2025.04.04",identificador_declarado_en_CV,"DOI consignado en CV; verificar metadatos del DOI"
 cuento,"Godín","José Baroja","Universidad Autónoma de Nuevo León, Reforma Siglo XXI","Vol. 30, n.º 118, pp. 91–92","2024","ISSN 2007-2058","https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae",declarado_en_CV,"Pendiente de ficha institucional"
-```
