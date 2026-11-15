@@ -96,6 +96,10 @@ No son publicaciones de José Baroja. Se registran aquí únicamente como recepc
 |---|---|---|---|
 | 2026 | *La educación en la obra de José Baroja* | Portal Insurgencia Magisterial | Artículo de un tercero; [nota de contexto en el sitio oficial](https://josebaroja.com/2026/10/05/la-educacion-en-la-obra-de-jose-baroja-insurgencia-magisterial/) |
 
+## Registro descargable
+
+- [Registro tabular CSV de publicaciones](registro-publicaciones.csv)
+
 ## Fuentes de control
 
 - [CV público de José Baroja, septiembre de 2026](https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae).
