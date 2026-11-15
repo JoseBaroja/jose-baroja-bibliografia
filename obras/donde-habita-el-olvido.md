@@ -1,32 +1,37 @@
-# Donde habita el olvido: cuentos reunidos / antología breve
+# Donde habita el olvido
 
-## Identificación de la obra
+## Identificación bibliográfica
 
 | Campo | Dato |
 |---|---|
 | Título | *Donde habita el olvido* |
 | Subtítulo | Cuentos reunidos / Antología breve |
 | Autor | José Baroja |
-| Editorial | Editorial Equinoxio |
+| Editorial | Equinoxio |
 | Lugar de edición | Mendoza, Argentina |
 | Año | 2026 |
-| Formato | 15 × 21 cm |
-| Extensión | 80 páginas |
-| ISBN | 978-631-6581-38-9 |
+| ISBN | 9786316581389 |
+| Formato | 15 × 21 cm (ficha oficial del autor) |
+| Extensión | 80 páginas según ficha oficial; Google Books indica 146, dato discrepante por resolver |
 
-<badge>Verificado en fuente oficial del autor</badge>
+<badge>Corroborado por ELEM y fuente del autor</badge>
 
-Fuente: [Ficha oficial del libro](https://josebaroja.com/donde-habita-el-olvido/).
+## Fuentes
+
+- [ELEM — ficha individual de la obra](https://www.elem.mx/obra/datos/240552): autor, editorial, lugar, año e ISBN.
+- [Ficha oficial del libro](https://josebaroja.com/donde-habita-el-olvido/): subtítulo, formato y extensión declarada de 80 páginas.
+- [Google Books](https://books.google.com/books/about/Donde_habita_el_olvido.html?hl=en&id=RWPsEQAAQBAJ&output=html_text): muestra el ISBN correcto, pero registra 146 páginas; se conserva la discrepancia.
 
 ## Descripción
 
-La página oficial presenta el volumen como una antología breve de veinte relatos representativos de la narrativa de José Baroja. Los cuentos recorren espacios urbanos y personajes marcados por la marginalidad, la soledad, la ironía y la dignidad humana.
+La ficha oficial presenta el volumen como una antología breve de veinte relatos representativos de la narrativa de José Baroja. ELEM lo clasifica en narrativa, cuento y libros individuales.
 
-## Pendiente de catalogación
+## Estado catalográfico
 
-- Localizar el registro de la edición en el catálogo de Editorial Equinoxio.
-- Comprobar la asignación del ISBN en una fuente ISBN o catálogo bibliotecario.
-- Localizar registros individuales en bibliotecas nacionales y universitarias.
-- Añadir OCLC, identificadores locales y enlaces permanentes cuando se encuentren.
+La existencia de la obra y sus datos editoriales básicos están corroborados. Todavía no se ha identificado un registro de ejemplar con número de control en un catálogo de biblioteca nacional o universitaria. No se asigna OCLC ni identificador local sin esa evidencia.
 
-**Nota:** los datos anteriores se transcriben de la ficha oficial del autor; no se afirma todavía que exista un registro catalográfico institucional independiente.
+## Pendiente
+
+- Localizar ficha de ejemplar en catálogos nacionales y universitarios.
+- Resolver la discrepancia de paginación (80 / 146).
+- Añadir registro de depósito legal o ISBN editorial, si está disponible.
