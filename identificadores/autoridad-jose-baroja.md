@@ -1,57 +1,47 @@
 # Autoridad bibliográfica: José Baroja
 
-**Identidad de referencia:** José Baroja, seudónimo literario de Ramón Mauricio González Gutiérrez; escritor chileno nacido en Valdivia en 1983.
+**Identidad de referencia:** José Baroja, seudónimo literario de Ramón Mauricio González Gutiérrez; escritor chileno nacido en Valdivia en 1983. La ficha de ELEM confirma nombre, lugar y año de nacimiento y enlaza los identificadores de autoridad principales.
 
 ## Identificadores principales consignados por ELEM
 
-La ficha de autor de la Enciclopedia de la Literatura en México (ELEM) consigna estos cuatro identificadores en su apartado «Control de autoridades»:
-
 | Sistema | Identificador | Enlace | Estado documental |
 |---|---|---|---|
-| Biblioteca Nacional de España (BNE) | `XX5868941` | [Ficha de autoridad BNE](https://datos.bne.es/persona/XX5868941.html) | Consignado por ELEM |
-| Library of Congress (LCCN) | `n2022029904` | [Autoridad LC](https://id.loc.gov/authorities/names/n2022029904.html) | Consignado por ELEM |
-| ISNI | `0000000506786697` | [Registro ISNI](https://isni.org/isni/0000000506786697) | Consignado por ELEM |
-| VIAF | `23157523177127030525` | [Registro VIAF](https://viaf.org/viaf/23157523177127030525) | Consignado por ELEM y enlazado por BVMC |
+| Biblioteca Nacional de España (BNE) | XX5868941 | [Ficha de autoridad BNE](https://datos.bne.es/persona/XX5868941.html) | Enlace directo desde el control de autoridades de ELEM |
+| Library of Congress (LCCN) | n2022029904 | [Autoridad LC](https://id.loc.gov/authorities/names/n2022029904.html) | Enlace directo desde ELEM |
+| ISNI | 0000000506786697 | [Registro ISNI](https://isni.org/isni/0000000506786697) | Enlace directo desde ELEM y listado de Commons/Open Library |
+| VIAF | 23157523177127030525 | [Registro VIAF](https://viaf.org/viaf/23157523177127030525) | Enlace directo desde ELEM y BVMC |
 
-Fuentes institucionales:
-- [ELEM — José Baroja, ficha de autor](https://www.elem.mx/autor/datos/135517).
-- [Biblioteca Virtual Miguel de Cervantes — Baroja, José, 1983-](https://data.cervantesvirtual.com/person/122882), que enlaza el mismo VIAF.
+**Fuente primaria de la asociación:** [ELEM — ficha de José Baroja](https://www.elem.mx/autor/datos/135517), apartado «Control de autoridades». [BVMC](https://data.cervantesvirtual.com/person/122882) enlaza el mismo VIAF. [Open Library](https://openlibrary.org/authors/OL12615039A/Jos%C3%A9_Baroja) también lista ISNI y VIAF para el mismo perfil de autor.
 
 ## ORCID
 
 - **ORCID:** [0000-0002-2850-0029](https://orcid.org/0000-0002-2850-0029).
-- El identificador aparece asociado a José Baroja en la categoría de Wikimedia Commons y en los datos de perfil recopilados durante esta investigación.
-- Se incorpora como identificador personal de investigación, pero conviene comprobar desde la sesión del titular que el registro ORCID esté actualizado y que los datos públicos coincidan con las variantes de nombre empleadas en los demás catálogos.
+- Aparece enlazado en la ficha de autoridad comunitaria de Wikimedia Commons. El enlace se incorpora como identificador declarado para el autor; no se afirma que se haya realizado una autenticación OAuth ni una verificación de titularidad en sesión.
 
-## Otros identificadores localizados; requieren comprobación individual
+## Otros identificadores de autoridad enumerados por Wikimedia Commons
 
-Los siguientes datos aparecen en la categoría de José Baroja de Wikimedia Commons. Se conservan como candidatos hasta revisar cada ficha de origen y confirmar la correspondencia:
+La página de categoría de Wikimedia Commons lista los siguientes identificadores y enlaces directos. Son pistas fuertes de reconciliación, pero, dado que no se pudo recuperar el contenido individual de cada registro en esta consulta, se conserva el estado «enlace listado por Commons; ficha fuente pendiente de inspección».
 
-| Sistema | Identificador | Enlace de consulta | Estado |
-|---|---|---|---|
-| Bibliothèque nationale de France (autoridad) | `181474947` | [Catálogo BnF](https://catalogue.bnf.fr/ark:/12148/cb181474947) | Candidato; ficha individual pendiente de lectura |
-| IdRef (Francia) | `282123563` | [IdRef](https://www.idref.fr/282123563) | Candidato; ficha individual pendiente de lectura |
-| CCAB | `000965913` | [CCAB](https://ccab.sudoc.fr/) | Candidato; verificar ficha |
-| National Library of Poland | `9813718827305606` | [Catálogo de la Biblioteca Nacional de Polonia](https://katalogi.bn.org.pl/) | Candidato; verificar ficha |
-| Open Library | `OL12615039A` | [Perfil de autor](https://openlibrary.org/authors/OL12615039A/Jos%C3%A9_Baroja) | Perfil localizado; revisar procedencia |
+| Sistema | Identificador | Enlace |
+|---|---|---|
+| Bibliothèque nationale de France | 181474947 | [ARK BnF](https://catalogue.bnf.fr/ark:/12148/cb181474947) |
+| IdRef (Francia) | 282123563 | [IdRef](https://www.idref.fr/282123563) |
+| CCAB / BNC | 000965913 | [Catálogo BNC](https://www.bncatalogo.cl/) |
+| National Library of Poland | 9813718827305606 | [Registro DBN](https://dbn.bn.org.pl/) |
+| Open Library | OL12615039A | [Perfil de autor](https://openlibrary.org/authors/OL12615039A/Jos%C3%A9_Baroja) |
 
-Fuentes:
-- [Wikimedia Commons — Category:José Baroja](https://commons.wikimedia.org/wiki/Category:Jos%C3%A9_Baroja), donde se listan los identificadores candidatos.
-- [Open Library — José Baroja](https://openlibrary.org/authors/OL12615039A/Jos%C3%A9_Baroja).
-- [CV de José Baroja en Academia.edu](https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae).
+Fuente de estos enlaces: [Wikimedia Commons — Category:José Baroja](https://commons.wikimedia.org/wiki/Category:Jos%C3%A9_Baroja), sección «Authority file». Commons no sustituye los registros institucionales enlazados.
 
-## El segundo cluster VIAF: asunto pendiente
+## El segundo cluster VIAF: pendiente de reconciliación
 
-En Wikimedia Commons aparecen dos números de cluster VIAF:
+Wikimedia Commons lista dos clusters:
 
-- `23157523177127030525`: coincide con el VIAF enlazado por ELEM y BVMC. Es el identificador de referencia documentado en esta ficha.
-- `6543174328169301590000`: aparece también en Commons, pero no se ha podido comprobar todavía su ficha de origen, composición ni relación con el cluster anterior.
+- 23157523177127030525: el mismo VIAF que ELEM y BVMC enlazan como autoridad de José Baroja.
+- 6543174328169301590000: Commons lo lista también en la sección de autoridad, pero la ficha del cluster no ha podido inspeccionarse y no hay evidencia suficiente para conocer sus fuentes constituyentes.
 
-**No deben tratarse como equivalentes ni fusionarse por inferencia.** La investigación pendiente consiste en comparar las entidades fuente que alimentan ambos clusters (nombres, fechas, obras, instituciones y variantes), determinar si el segundo cluster corresponde al mismo autor, a un registro duplicado o a una colisión de identidades, y documentar la evidencia antes de proponer una corrección en VIAF o Wikidata.
+**Conclusión provisional:** el segundo cluster no debe fusionarse, sustituirse ni presentarse como duplicado confirmado. La tarea correcta es recuperar la página VIAF y comparar los registros fuente, variantes de nombre, fechas y obras. Hasta entonces, queda como «cluster adicional listado por Commons, sin reconciliación».
 
-## Identidad y control de variantes
-
-Las fuentes consultadas relacionan el seudónimo José Baroja con el nombre civil Ramón Mauricio González Gutiérrez. En las búsquedas de catálogos conviene probar, al menos, estas formas:
+## Variantes de nombre para búsquedas de catálogo
 
 - Baroja, José
 - José Baroja
@@ -59,4 +49,8 @@ Las fuentes consultadas relacionan el seudónimo José Baroja con el nombre civi
 - González Gutiérrez, Ramón Mauricio
 - Ramón Mauricio González Gutiérrez
 
-No se debe atribuir automáticamente cualquier registro de «José Baroja» a esta persona sin contrastar fechas, obras, país y otros atributos.
+No atribuir registros de homónimos sin contrastar obras, fechas, nacionalidad y otras señales de identidad.
+
+## Nota sobre fuentes y accesibilidad
+
+Los enlaces de BNE, LC, ISNI, VIAF, BnF e IdRef se obtienen de las páginas de ELEM y Commons. La apertura automatizada de algunos catálogos devolvió errores de acceso; esto no demuestra que los registros no existan, solo que no se pudo inspeccionar su contenido en esta sesión.
