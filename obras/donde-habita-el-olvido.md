@@ -14,13 +14,13 @@
 | Formato | 15 × 21 cm (ficha oficial del autor) |
 | Extensión | 80 páginas según ficha oficial; Google Books indica 146, dato discrepante por resolver |
 
-<badge>Corroborado por ELEM y fuente del autor</badge>
+<badge>Datos básicos listados por ELEM; ISBN declarado en ficha oficial</badge>
 
 ## Fuentes
 
-- [ELEM — ficha individual de la obra](https://www.elem.mx/obra/datos/240552): autor, editorial, lugar, año e ISBN.
-- [Ficha oficial del libro](https://josebaroja.com/donde-habita-el-olvido/): subtítulo, formato y extensión declarada de 80 páginas.
-- [Google Books](https://books.google.com/books/about/Donde_habita_el_olvido.html?hl=en&id=RWPsEQAAQBAJ&output=html_text): muestra el ISBN correcto, pero registra 146 páginas; se conserva la discrepancia.
+- [ELEM — listado general de obra publicada](https://www.elem.mx/autor/obra/directa/135517): incluye el título, autor, Mendoza, Equinoxio y 2026. La ficha individual [240552](https://www.elem.mx/obra/datos/240552) existe, pero no expone sus metadatos en la consulta automatizada.
+- [Ficha oficial del libro](https://josebaroja.com/donde-habita-el-olvido/): ISBN 9786316581389, subtítulo, formato y extensión declarada de 80 páginas.
+- [Google Books](https://books.google.com/books/about/Donde_habita_el_olvido.html?hl=en&id=RWPsEQAAQBAJ&output=html_text): registra 146 páginas; se conserva la discrepancia.
 
 ## Descripción
 
