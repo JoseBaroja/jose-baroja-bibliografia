@@ -4,7 +4,7 @@
 
 ## Identificadores principales consignados por ELEM
 
-La ficha de autor de la Enciclopedia de la Literatura en México consigna estos cuatro identificadores en su apartado «Control de autoridades»:
+La ficha de autor de la Enciclopedia de la Literatura en México (ELEM) consigna estos cuatro identificadores en su apartado «Control de autoridades»:
 
 | Sistema | Identificador | Enlace | Estado documental |
 |---|---|---|---|
@@ -13,25 +13,30 @@ La ficha de autor de la Enciclopedia de la Literatura en México consigna estos 
 | ISNI | `0000000506786697` | [Registro ISNI](https://isni.org/isni/0000000506786697) | Consignado por ELEM |
 | VIAF | `23157523177127030525` | [Registro VIAF](https://viaf.org/viaf/23157523177127030525) | Consignado por ELEM y enlazado por BVMC |
 
-Fuentes:
+Fuentes institucionales:
 - [ELEM — José Baroja, ficha de autor](https://www.elem.mx/autor/datos/135517).
 - [Biblioteca Virtual Miguel de Cervantes — Baroja, José, 1983-](https://data.cervantesvirtual.com/person/122882), que enlaza el mismo VIAF.
 
+## ORCID
+
+- **ORCID:** [0000-0002-2850-0029](https://orcid.org/0000-0002-2850-0029).
+- El identificador aparece asociado a José Baroja en la categoría de Wikimedia Commons y en los datos de perfil recopilados durante esta investigación.
+- Se incorpora como identificador personal de investigación, pero conviene comprobar desde la sesión del titular que el registro ORCID esté actualizado y que los datos públicos coincidan con las variantes de nombre empleadas en los demás catálogos.
+
 ## Otros identificadores localizados; requieren comprobación individual
 
-Los siguientes datos aparecen en la categoría de José Baroja de Wikimedia Commons. Se conservan como identificadores candidatos hasta revisar cada ficha de origen y confirmar que no se trata de una homonimia o de una asociación desactualizada.
+Los siguientes datos aparecen en la categoría de José Baroja de Wikimedia Commons. Se conservan como candidatos hasta revisar cada ficha de origen y confirmar la correspondencia:
 
 | Sistema | Identificador | Enlace de consulta | Estado |
 |---|---|---|---|
-| Bibliothèque nationale de France (autoridad) | `181474947` | [Catálogo BnF](https://catalogue.bnf.fr/) | Candidato; verificar ficha |
-| IdRef (Francia) | `282123563` | [IdRef](https://www.idref.fr/282123563) | Candidato; verificar ficha |
+| Bibliothèque nationale de France (autoridad) | `181474947` | [Catálogo BnF](https://catalogue.bnf.fr/ark:/12148/cb181474947) | Candidato; ficha individual pendiente de lectura |
+| IdRef (Francia) | `282123563` | [IdRef](https://www.idref.fr/282123563) | Candidato; ficha individual pendiente de lectura |
 | CCAB | `000965913` | [CCAB](https://ccab.sudoc.fr/) | Candidato; verificar ficha |
 | National Library of Poland | `9813718827305606` | [Catálogo de la Biblioteca Nacional de Polonia](https://katalogi.bn.org.pl/) | Candidato; verificar ficha |
 | Open Library | `OL12615039A` | [Perfil de autor](https://openlibrary.org/authors/OL12615039A/Jos%C3%A9_Baroja) | Perfil localizado; revisar procedencia |
-| ORCID | `0000-0002-2850-0029` | [Registro ORCID](https://orcid.org/0000-0002-2850-0029) | Figura en CV y en Commons; verificar perfil |
 
-Fuentes de estos candidatos:
-- [Wikimedia Commons — Category:José Baroja](https://commons.wikimedia.org/wiki/Category:Jos%C3%A9_Baroja).
+Fuentes:
+- [Wikimedia Commons — Category:José Baroja](https://commons.wikimedia.org/wiki/Category:Jos%C3%A9_Baroja), donde se listan los identificadores candidatos.
 - [Open Library — José Baroja](https://openlibrary.org/authors/OL12615039A/Jos%C3%A9_Baroja).
 - [CV de José Baroja en Academia.edu](https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae).
 
