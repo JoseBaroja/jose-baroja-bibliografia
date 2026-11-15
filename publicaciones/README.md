@@ -12,7 +12,7 @@
 | 2026 | *Cielo de Guadalajara* | Teoría Ómicron, año 8, n.º 3 | Cuento | [Leer en Academia.edu](https://www.academia.edu/179588315/Cielo_de_Guadalajara_Jos%C3%A9_Baroja) |
 | 2026 | *Contra la literatura útil* | La Voz de Maipú | Columna | [Leer en La Voz de Maipú](https://lavozdemaipu.cl/author/jose-baroja/) |
 | 2026 | *Donde habita el olvido: cuentos reunidos / antología breve* | Editorial Equinoxio | Libro | [Ficha del libro](https://josebaroja.com/donde-habita-el-olvido/) |
-| 2026 | *Apuntes acerca de La sombra tras el muro de Verónica Zondek* | Universidad de Colima, *Interpretextos*, vol. 3, n.º 5 | Artículo | [CV público](https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae) |
+| 2026 | *Apuntes acerca de La sombra tras el muro de Verónica Zondek* | Universidad de Colima, *Interpretextos*, vol. 3, n.º 5, pp. 37–51 | Artículo; DOI [10.53897/RevInterp.2026.05.02](https://doi.org/10.53897/RevInterp.2026.05.02) | [Ficha y anuncio del número](https://josebaroja.com/2026/03/17/novedades-en-interpretextos-articulo-de-jose-baroja-y-cuento-de-leyda-mariscal/) |
 | 2026 | *El voto ajeno: democracia, mérito y desconfianza en el México whitexican* | *Este País*, n.º 423 | Artículo | [Perfil de autor en Muck Rack](https://muckrack.com/jose-baroja/articles) |
 | 2026 | *El prestigio de no leer* | *Este País*, n.º 422 | Artículo | [Perfil de autor en Muck Rack](https://muckrack.com/jose-baroja/articles) |
 | 2026 | *La ciudad que sigue* | ZonaDocs | Columna | [Archivo de publicaciones del autor](https://josebaroja.com/author/cuentosrelatosyotrasyerbas/) |
@@ -90,6 +90,7 @@ Listado de referencia basado en el CV público del autor; los datos editoriales 
 
 ## Correcciones y enlaces persistentes añadidos
 
+- *Apuntes acerca de La sombra tras el muro de Verónica Zondek* (2026) cuenta con DOI propio: [10.53897/RevInterp.2026.05.02](https://doi.org/10.53897/RevInterp.2026.05.02); el CV público declara volumen 3, número 5, páginas 37–51.
 - *Desapariciones* cuenta con DOI propio: [10.53897/RevInterp.2025.04.04](https://doi.org/10.53897/RevInterp.2025.04.04). El PDF de *Interpretextos* identifica el texto, las páginas 69–71 y el ORCID del autor.
 - *Godín* cuenta con ficha editorial individual en el portal de *Reforma Siglo XXI* de la Universidad Autónoma de Nuevo León.
 - No se deben usar los enlaces a perfiles generales (CV o Muck Rack) como sustitutos permanentes cuando exista una ficha editorial individual.
