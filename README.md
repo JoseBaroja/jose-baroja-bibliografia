@@ -24,6 +24,10 @@ Repositorio documental para reunir y verificar la bibliografía publicada de Jos
 - [Recepción crítica y menciones de terceros](recepcion-critica/README.md)
 - [Plantilla CSV](plantillas/registro-bibliografico.csv)
 
+## Estado de la revisión documental — 16 de noviembre de 2026
+
+La ronda del 16 de noviembre incorporó un ISBN electrónico corroborado para *No fue un catorce de febrero y otros cuentos* (9788412755824), un ISBN impreso adicional corroborado para *El lado oscuro de la sombra y otros ladridos* (9786125112484), y tres textos críticos independientes localizados en Revista Montaje y Rebelión. Se mantienen separados los ISBN por formato/edición y los dos clusters VIAF. No se recuperaron fichas individuales nuevas de bibliotecas ni se resolvió el cluster secundario. Véase el [informe del 16-11-2026](informes/2026-11-16.md).
+
 ## Estado de la revisión documental — 15 de noviembre de 2026
 
 Se ha completado una ronda intensiva de revisión de bibliografía, publicaciones, autoridades y recepción crítica. La sección de recepción crítica incorpora ensayos, reseñas y una entrevista de terceros; el inventario de publicaciones incluye los DOI localizados y distingue datos transcritos del CV de registros editoriales individuales.
