@@ -8,6 +8,7 @@
 
 | Año | Título | Medio / institución | Tipo | Enlace |
 |---|---|---|---|---|
+| 2026 | *Miradas* | Revista Montaje | Cuento | [Leer en Revista Montaje](https://revistamontaje.cl/narrativa-jose-baroja/) |
 | 2026 | *No encontró nada* | Carcaj (Chile) | Cuento | [Leer en Carcaj](https://carcaj.cl/no-encontro-nada/) |
 | 2026 | *Cielo de Guadalajara* | Teoría Ómicron, año 8, n.º 3 | Cuento | [Leer en Academia.edu](https://www.academia.edu/179588315/Cielo_de_Guadalajara_Jos%C3%A9_Baroja) |
 | 2026 | *Contra la literatura útil* | La Voz de Maipú | Columna | [Leer en La Voz de Maipú](https://lavozdemaipu.cl/author/jose-baroja/) |
