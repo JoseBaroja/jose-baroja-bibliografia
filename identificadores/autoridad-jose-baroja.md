@@ -35,6 +35,15 @@ La categoría de Wikimedia Commons [José Baroja](https://commons.wikimedia.org/
 - **ORCID:** [0000-0002-2850-0029](https://orcid.org/0000-0002-2850-0029).
 - La asociación del ORCID con José Baroja cuenta con evidencia pública independiente de Commons: el CV público del autor lo consigna y el PDF editorial de *Interpretextos* identifica a «José Baroja» con ese ORCID junto al cuento «Desapariciones» (vol. 2, n.º 4, 2025, pp. 69–71). [CV público](https://uc-cl.academia.edu/Jos%C3%A9Baroja/CurriculumVitae) · [PDF del artículo](https://josebaroja.com/wp-content/uploads/2025/09/itp_4-2025-06-desapariciones.pdf) · [DOI](https://doi.org/10.53897/RevInterp.2025.04.04). **Resultado:** asociación autor-identificador respaldada por dos fuentes públicas; el perfil ORCID en sí no expuso metadatos legibles y no se realizó autenticación OAuth.
 
+## Revisión de accesibilidad — 16 de noviembre de 2026
+
+- ELEM continúa mostrando BNE XX5868941, LCCN n2022029904, ISNI 0000000506786697 y VIAF 23157523177127030525 en el bloque de control de autoridades ([ficha ELEM](https://www.elem.mx/autor/datos/135517)).
+- BVMC vuelve a enlazar expresamente el VIAF 23157523177127030525 para «Baroja, José, 1983-» ([registro BVMC](https://data.cervantesvirtual.com/person/122882)).
+- Open Library lista ISNI 0000000506786697 y VIAF 23157523177127030525 en el perfil de José Baroja ([perfil Open Library](https://openlibrary.org/authors/OL12615039A/Jos%C3%A9_Baroja)).
+- Commons continúa listando ambos VIAF, 23157523177127030525 y 6543174328169301590000, en la categoría de José Baroja ([Commons](https://commons.wikimedia.org/wiki/Category:Jos%C3%A9_Baroja)).
+- No se recuperó la composición de los dos clusters ni una ficha fuente que permita cotejarlos. El segundo cluster permanece **no resuelto**. No inferir duplicación, identidad distinta ni fusión.
+- No se pudo inspeccionar hoy el contenido primario de las fichas BNE, LC, ISNI, VIAF, BnF, IdRef, CCAB o DBN. La información de estos identificadores sigue clasificada según la procedencia descrita arriba; esta revisión no eleva su estado institucional.
+
 ## VIAF: dos clusters diferentes
 
 Wikimedia Commons enumera dos números VIAF en la misma ficha:
