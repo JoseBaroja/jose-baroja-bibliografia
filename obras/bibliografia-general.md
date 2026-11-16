@@ -43,6 +43,9 @@ Inventario de obras y participaciones editoriales atribuidas a José Baroja. La 
 2. **Extensión de *Donde habita el olvido*.** La ficha oficial del autor indica 80 páginas; Google Books muestra 146. No se fija extensión definitiva hasta consultar el ejemplar o ficha editorial.
 3. **Edición electrónica de *Sueño en Guadalajara*.** El ISBN candidato 9788412772074 procede de un agregador, no de la ficha editorial primaria localizada. Se mantiene fuera del inventario de ediciones confirmadas.
 4. Los datos de ELEM identifican obras y ediciones bibliográficas, pero no sustituyen los registros de ejemplar de bibliotecas.
+5. **Edición electrónica de *No fue un catorce de febrero*.** El ISBN 9788412755824 corresponde al eBook de Terra Ignota, con lanzamiento indicado el 1-08-2023 por Casa del Libro, Storytel y Fnac. Se registra separadamente de la edición impresa con ISBN 9788412256161.
+6. **Nueva identificación de edición de *El lado oscuro de la sombra y otros ladridos*.** La Agencia ISBN del Perú muestra el ISBN 9786125112484 para una edición impresa de Corporación Ígneo S.A.C., fechada el 10-09-2023, primera edición, 91 páginas. La ficha directa tuvo timeout en esta revisión; el dato queda corroborado por la vista indexada de la agencia y una ficha comercial. Se conserva separado del ISBN 9789807641678 que aparece en la ficha oficial del autor hasta cotejar los ejemplares.
+
 
 ## Fuentes de control
 
