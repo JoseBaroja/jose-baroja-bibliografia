@@ -38,6 +38,16 @@ Este expediente registra textos escritos por terceros que estudian, reseñan, co
 |---|---|---|---|---|---|---|
 | 2026 | David Montil | *La educación en la obra de José Baroja* | Artículo de análisis / divulgación | Portal Insurgencia Magisterial | [Texto original](https://insurgenciamagisterial.com/la-educacion-en-la-obra-de-jose-baroja/) | Artículo de un tercero. No es una publicación escrita por José Baroja. |
 
+## Incorporaciones verificadas — revisión 16-11-2026
+
+| Fecha | Autor/a | Título | Tipo | Medio / país | Enlace | Observación |
+|---|---|---|---|---|---|---|
+| 10-04-2026 | Matilde Rodríguez (título); Sebastián Novajas (cabecera de página) | *Reseña. El lado oscuro de la sombra y otros ladridos de José Baroja* | Reseña | Revista Montaje | [Texto original](https://revistamontaje.cl/resena-el-lado-oscuro-de-la-sombra-y-otros-ladridos-de-jose-baroja-por-matilde-rodriguez/) | Texto completo accesible. La autoría tiene discrepancia interna: el título atribuye la reseña a Matilde Rodríguez y la cabecera muestra Sebastián Novajas. No resolver por inferencia. |
+| 07-05-2026 | Karina Aguilar | *Las ciudades del desencanto: ficción, precariedad y fe rota* | Ensayo crítico | Rebelión | [Texto original](https://rebelion.org/las-ciudades-del-desencanto-ficcion-precariedad-y-fe-rota/) | Analiza conjuntamente *No fue un catorce de febrero y otros cuentos* y *Sueño en Guadalajara y otros cuentos*. |
+| 02-03-2026 | Karina Aguilar | *México, la ciudad soñada y el país real* | Ensayo crítico | Rebelión | [Texto original](https://rebelion.org/mexico-la-ciudad-sonada-y-el-pais-real/) | Lectura crítica de *Sueño en Guadalajara y otros cuentos*; pieza distinta del artículo de mayo. |
+
+**Estado de los tres registros:** verificado en la página original del medio. La reseña de Revista Montaje conserva la discrepancia de atribución descrita; los dos ensayos de Rebelión identifican a Karina Aguilar y sus fechas.
+
 ## Alcance de la búsqueda académica
 
 La investigación de recepción crítica se concentra en textos efectivamente localizados que estudian, reseñan o comentan la obra de José Baroja, con independencia de la universidad o país de procedencia de sus autores. No se establecen instituciones predeterminadas como objetivo: se prioriza la calidad, independencia y pertinencia de cada publicación.
